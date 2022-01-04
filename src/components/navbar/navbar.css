@@ -1,0 +1,23 @@
+.solweedpunk__navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 2rem 6rem;
+}
+
+.solweedpunk__navbar-links {
+    flex: 1;
+    display: flex;
+    justify-sontent: flex-start;
+    align-items: center;
+}
+
+.solweedpunk__navbar-link_logo {
+    margin-right: 2rem;
+}
+
+.solweedpunk__navbar-links_logo img {
+    width: 62px;
+    height: 16px;
+}
